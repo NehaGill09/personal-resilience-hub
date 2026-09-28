@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+resilience_hub.db
+exports/
+backups/
+.DS_Store
+.vscode/
+.idea/
